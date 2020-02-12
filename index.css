@@ -16,20 +16,21 @@ button {
   font-size: 24px;
   border: none;
   border-radius: 3px;
-  padding: 1em;
-  margin: 1em;
+  padding: 0.75em;
+  margin: 0.5em;
 }
 
 input, select {
   font-size: 24px;
   padding: 0.5em;
-  margin: 1em;
+  margin: 0.5em;
   border-radius: 3px;
   border: 1.5px solid cornflowerblue;
 }
 
 input.cricket {
-  width: 2em;
+  width: 3em;
+  margin: 0.5em 0.25em;
 }
 
 
